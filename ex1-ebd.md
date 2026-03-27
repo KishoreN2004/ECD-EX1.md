@@ -22,7 +22,7 @@ Commonly used electronic components include passive components like resistors, c
 
 Understanding the characteristics and applications of these components is essential for analyzing and designing reliable electronic circuits.
 
-# Components List
+# Output
 
 [Book1 edc.xlsx](https://github.com/user-attachments/files/25029693/Book1.edc.xlsx)
 
